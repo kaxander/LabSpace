@@ -1,4 +1,9 @@
+using LabSpace.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("DefaulConnection")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -21,7 +26,17 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
+name: "areas",
+pattern: "{area:exists}/{controller=Admin}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.Run();
+
+app.MapControllerRoute(
+name: "default",
+pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
