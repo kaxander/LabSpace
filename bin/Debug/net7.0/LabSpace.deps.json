@@ -7,6 +7,11 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "LabSpace/1.0.0": {
+<<<<<<< HEAD
+        "runtime": {
+          "LabSpace.dll": {}
+        }
+=======
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "7.0.11",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.11",
@@ -2677,6 +2682,7 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
         }
+>>>>>>> 3ee3c544d7565e82acea9680f50dcd0939f88909
       }
     }
   },
@@ -2685,6 +2691,8 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+<<<<<<< HEAD
+=======
     },
     "Azure.Core/1.25.0": {
       "type": "package",
@@ -4288,6 +4296,7 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+>>>>>>> 3ee3c544d7565e82acea9680f50dcd0939f88909
     }
   }
 }
