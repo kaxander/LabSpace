@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "OVfGr/byw7XCbiTU7PMOiu3+lwEmNmkXvCg+RbuXXPc=",
+=======
+  "Hash": "41jPkNQs9Xy8z4W6EXmO0bof3f6V0m/1yZx7LfPUGFI=",
+>>>>>>> 3ee3c544d7565e82acea9680f50dcd0939f88909
   "Source": "LabSpace",
   "BasePath": "_content/LabSpace",
   "Mode": "Default",
@@ -85,6 +89,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\dev\\LabSpace\\wwwroot\\imgs\\card1.png",
       "SourceId": "LabSpace",
       "SourceType": "Discovered",
@@ -221,6 +226,8 @@
       "OriginalItemSpec": "wwwroot\\imgs\\laberasfood.png"
     },
     {
+=======
+>>>>>>> 3ee3c544d7565e82acea9680f50dcd0939f88909
       "Identity": "C:\\dev\\LabSpace\\wwwroot\\js\\site.js",
       "SourceId": "LabSpace",
       "SourceType": "Discovered",

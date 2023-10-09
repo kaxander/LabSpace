@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 a.nav-item[b-05nkh0zvb0] {
+=======
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-05nkh0zvb0] {
+>>>>>>> 3ee3c544d7565e82acea9680f50dcd0939f88909
   white-space: normal;
   text-align: center;
   word-break: break-all;
 }
+<<<<<<< HEAD
 .koulen[b-05nkh0zvb0]{
   font-family: 'Koulen', cursive;
 }
@@ -20,6 +28,13 @@ a.nav-item[b-05nkh0zvb0] {
 
 
 
+=======
+
+a[b-05nkh0zvb0] {
+  color: #0077cc;
+}
+
+>>>>>>> 3ee3c544d7565e82acea9680f50dcd0939f88909
 .btn-primary[b-05nkh0zvb0] {
   color: #fff;
   background-color: #1b6ec2;
