@@ -1,37 +1,12 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-/* _content/LabSpace/Views/Shared/_Layout.cshtml.rz.scp.css */
-a.nav-item[b-05nkh0zvb0] {
-=======
 /* _content/LabSpace/Areas/Admin/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand[b-jswtpr28sn] {
->>>>>>> 3ee3c544d7565e82acea9680f50dcd0939f88909
   white-space: normal;
   text-align: center;
   word-break: break-all;
 }
-<<<<<<< HEAD
-.koulen[b-05nkh0zvb0]{
-  font-family: 'Koulen', cursive;
-}
-.kumar[b-05nkh0zvb0]{
-  font-family: 'Kumar One', cursive;
-}
-.noto[b-05nkh0zvb0]{
-  font-family: 'Noto Sans', sans-serif;
-}
-
-#icone[b-05nkh0zvb0]{
-  width: 50px ;
-  height: 50px ;
-}
-
-
-=======
 
 a[b-jswtpr28sn] {
   color: #0077cc;
@@ -72,7 +47,6 @@ button.accept-policy[b-jswtpr28sn] {
   white-space: nowrap;
   line-height: 60px;
 }
->>>>>>> 0ccaebe58ca522311880b554427a1988aa25a334
 /* _content/LabSpace/Views/Shared/_Layout.cshtml.rz.scp.css */
 a.nav-item[b-05nkh0zvb0] {
   white-space: normal;
@@ -82,7 +56,6 @@ a.nav-item[b-05nkh0zvb0] {
 .koulen[b-05nkh0zvb0]{
   font-family: 'Koulen', cursive;
 }
-<<<<<<< HEAD
 .kumar[b-05nkh0zvb0]{
   font-family: 'Kumar One', cursive;
 }
@@ -96,9 +69,6 @@ a.nav-item[b-05nkh0zvb0] {
 }
 
 
-=======
->>>>>>> 3ee3c544d7565e82acea9680f50dcd0939f88909
->>>>>>> 0ccaebe58ca522311880b554427a1988aa25a334
 
 .btn-primary[b-05nkh0zvb0] {
   color: #fff;

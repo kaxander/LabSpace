@@ -13,7 +13,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-<<<<<<< HEAD
       "Id": "C:\\dev\\LabSpace\\wwwroot\\imgs\\card1.png",
       "PackagePath": "staticwebassets\\imgs\\card1.png"
     },
@@ -46,8 +45,6 @@
       "PackagePath": "staticwebassets\\imgs\\laberasfood.png"
     },
     {
-=======
->>>>>>> 3ee3c544d7565e82acea9680f50dcd0939f88909
       "Id": "C:\\dev\\LabSpace\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
