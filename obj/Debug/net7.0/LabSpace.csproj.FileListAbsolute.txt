@@ -29,6 +29,8 @@ C:\dev\LabSpace\obj\Debug\net7.0\refint\LabSpace.dll
 C:\dev\LabSpace\obj\Debug\net7.0\LabSpace.pdb
 C:\dev\LabSpace\obj\Debug\net7.0\LabSpace.genruntimeconfig.cache
 C:\dev\LabSpace\obj\Debug\net7.0\ref\LabSpace.dll
+<<<<<<< HEAD
+=======
 C:\dev\LabSpace\bin\Debug\net7.0\Azure.Core.dll
 C:\dev\LabSpace\bin\Debug\net7.0\Azure.Identity.dll
 C:\dev\LabSpace\bin\Debug\net7.0\Humanizer.dll
@@ -280,3 +282,4 @@ C:\dev\LabSpace\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptog
 C:\dev\LabSpace\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\dev\LabSpace\obj\Debug\net7.0\LabSpace.csproj.CopyComplete
 C:\dev\LabSpace\obj\Debug\net7.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+>>>>>>> 3ee3c544d7565e82acea9680f50dcd0939f88909
